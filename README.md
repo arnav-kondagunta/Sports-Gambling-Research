@@ -1,2 +1,2 @@
 # Sports-Gambling-Research
-Math Stat Final Project
+As part of my Mathematical Statistics and Data Sciences final project, my group looked into the effectiveness of the Problem Gambling Severity Index (PGSI) in determining problematic sports gambling behavior. We created a linear regression to determine whether variables relating to the amount of money wagered and frequency of betting could accurately predict PGSI score. Our results indicate that these factors do not accurately predict PGSI score. However, this may due to the fact that PGSI score evaluates the behavioral and psychological impacts of gambling rather than measuring the monetary impact to determine problematic gambling.
